@@ -1,0 +1,279 @@
+
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+.Thanhmenu{
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+    background-color: gray;
+    width: 100%;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+
+.Ten{
+    float: left;
+    text-align: center;
+    color: white;
+    padding: 14px 16px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+    
+}
+.chu{   
+    float: left;
+    text-align: center;
+    display: inline-block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-left: 110px;
+    font-size: 20px;
+}
+li:hover{
+    background-color: black;
+}
+
+
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+
+body{
+    background-color: white;
+}
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+.ten{
+    
+    border: 8px solid black;
+    padding: 80px ;
+    background-color: pink;
+    width: 150px;
+    height: 360px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 100px;
+    margin-top: 200px;
+    color: black;
+    border-radius: 10px;
+}
+.khunganhduoi1{
+    font-size: 21px; 
+    white-space: nowrap; 
+    margin-left: -50px; 
+    margin-top: 10px;
+    padding: 50px;
+    width: 150px; 
+    background-color: aliceblue;
+    border: 3px solid black;
+    border-radius: 10px;
+    list-style-type: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.hinhanh1{
+    width: 280px; 
+    margin-left: -65px; 
+    margin-top: -10px;
+    height: 280px;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+.ngoisao1{
+font-size: 15px; 
+margin-top: -80px; 
+margin-left: 190px;
+}
+/* ------------------------------------------------------------------------------------------------------------------------------------------ */
+
+.chuyennganh{
+    border: 5px solid black;
+    padding: 60px;
+    background-color: red;
+    text-align: center;
+    width: 200px;
+    height: 270px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 1100px;
+    margin-top: 100px; /* xuống dòng ở đây */
+    border-radius: 10px;
+}
+.khunganhduoi2{
+    list-style-type: none;
+    font-size: 20px; 
+    margin-left: -25px; 
+    margin-top: 10px;
+    padding: 50px;
+    width: 150px; 
+    height: 1px;
+    background-color: aliceblue;
+    border: 3px solid black;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ngoisao2{
+font-size: 20px; 
+margin-top: -60px; 
+margin-left: 170px;
+white-space: nowrap;
+}
+.hinhanh2{
+    width: 250px; 
+    margin-left: -25px; 
+    margin-top: -20px;
+    margin-bottom: 2px;
+    height: 200px;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+/* ---------------------------------------------------------------------------------------------------------------------------------------------- */
+.sothich{
+    border: 5px solid black;
+    padding: 60px;
+    background-color: rgb(71, 177, 200);
+    text-align: center;
+    width: 200px;
+    height: 270px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 180px;
+    border-radius: 10px;
+}
+.ngoisao3{
+    font-size: 20px; 
+    margin-top: -60px; 
+    margin-left: 140px;
+    white-space: nowrap;
+}
+.hinhanh3{
+    width: 250px; 
+    margin-left: -25px; 
+    margin-top: -20px;
+    margin-bottom: 2px;
+    height: 200px;
+    border-radius: 10px;
+    border: 3px solid black;
+    background-color: antiquewhite;
+}
+.khunganhduoi3{
+    list-style-type: none;
+    white-space: nowrap;
+    font-size: 20px; 
+    margin-left: -25px; 
+    margin-top: 5px;
+    padding: 50px;
+    width: 150px; 
+    height: 1px;
+    background-color: aliceblue;
+    border: 3px solid black;
+    border-radius: 10px;
+    font-family:'Times New Roman', Times, serif;
+}
+/* ---------------------------------------------------------------------------------------------------------------------------------------------- */
+.tichcach{
+    border: 5px solid black;
+    padding: 60px;
+    background-color: rgb(70, 222, 19);
+    text-align: center;
+    width: 200px;
+    height: 275px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 1100px;
+    margin-top: 70px;
+    border-radius: 10px;
+}
+.ngoisao4{
+    font-size: 20px; 
+    margin-top: -60px; 
+    margin-left: 110px;
+    white-space: nowrap;
+}
+.hinhanh4{
+    width: 250px; 
+    margin-left: -25px; 
+    margin-top: -20px;
+    margin-bottom: 2px;
+    height: 200px;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+.khunganhduoi4{
+    list-style-type: none;
+    white-space: nowrap;
+    font-size: 20px; 
+    margin-left: -25px; 
+    margin-top: 10px;
+    padding: 50px;
+    width: 150px; 
+    height: 1px;
+    background-color: aliceblue;
+    border: 3px solid black;
+    border-radius: 10px;
+    font-family:'Times New Roman', Times, serif;
+}
+/* ---------------------------------------------------------------------------------------------------------------------------------------------- */
+.muctieu{
+    border: 5px solid black;
+    padding: 60px;
+    background-color: rgba(76, 133, 218, 0.989);
+    text-align: center;
+    width: 200px;
+    height: 275px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 180px;
+    border-radius: 10px;
+}
+.ngoisao5{
+    font-size: 20px; 
+    margin-top: -60px; 
+    margin-left: 80px;
+    white-space: nowrap;
+}
+.hinhanh5{
+    width: 250px; 
+    margin-left: -25px; 
+    margin-top: -20px;
+    margin-bottom: 2px;
+    height: 200px;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+.khunganhduoi5{
+    list-style-type: none;
+    white-space: nowrap;
+    font-size: 20px; 
+    margin-left: -25px; 
+    margin-top: 10px;
+    padding: 50px;
+    width: 150px; 
+    height: 1px;
+    background-color: aliceblue;
+    border: 3px solid black;
+    border-radius: 10px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+/* ---------------------------------------------------------------------------------------------------------------------------------------------- */
+.cuoitrang{
+    background-color: black;
+    margin-left: -10px;
+    margin-top: 10px;
+    width: 1500px;
+    height: 150px;
+    text-align: center;
+    padding: 25px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+
+
+
+
+
+
+
